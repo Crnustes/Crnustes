@@ -12,7 +12,6 @@
 <p align="center">
   <a href="https://cristian.click"><img src="https://img.shields.io/badge/Portfolio-cristian.click-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://techtecnic.com"><img src="https://img.shields.io/badge/Studio-Tech%20Tecnic-1E3A8A?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Crnustes&style=for-the-badge&color=0f172a&label=Profile+views" />
 </p>
 
 ---
@@ -72,10 +71,6 @@ I'm **Cristian**, a web developer based in **Bogotá, Colombia** 🇨🇴 buildi
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Crnustes&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Crnustes&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
